@@ -1,1 +1,1 @@
-# adventofcode
+# Advent Of Code for study Golang
